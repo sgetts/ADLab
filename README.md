@@ -1,6 +1,6 @@
 <h1>Active Directory Lab</h1>
 
-<img src="https://1drv.ms/i/s!AqbIK909jR26jSW2FSHpn9cQCZDm?e=HBCsjV" alt="ADlabdiagram" style="border: 2px solid red;">
+<img src="https://github.com/sgetts/ADLab/blob/main/ADLAB.png" alt="ADlabdiagram" style="border: 2px solid red;">
 
 <h3>Hello, GitHub community,
 I hope you are all doing well. My presence here hasn’t been as consistent as I’d like, and I've realized that I haven’t been showcasing the projects and home labs I tackle in my free time. Moving forward, I plan to document my labs and share my journey with all of you.
