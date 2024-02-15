@@ -1,4 +1,4 @@
-<h1>Active Directory Lab</h1>
+<h1>Active Directory Basic Lab</h1>
 
 <img src="https://github.com/sgetts/ADLab/blob/main/ADLAB.png" alt="ADlabdiagram" style="border: 2px solid red;">
 
