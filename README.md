@@ -29,5 +29,5 @@ In our lab virtual environment, running on VirtualBox as a Type 2 Hypervisor, we
 
 I look forward to bringing more of my home lab adventures to this platform.
 
-#WindowsServer #ActiveDirectory #PowerShell #HomeLab #ITProfessional
+#WindowsServer #ActiveDirectory #PowerShell #HomeLab
 </h3>
